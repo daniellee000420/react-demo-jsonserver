@@ -1,0 +1,85 @@
+{
+  "cate": [
+    {
+      "id": "1",
+      "name": "sports",
+      "image": "/static/1.png"
+    },
+    {
+      "id": "2",
+      "name": "music",
+      "image": "/static/1.png"
+    },
+    {
+      "id": "3",
+      "name": "computer",
+      "image": "/static/dell.webp"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "football",
+      "image": "/static/1.png",
+      "price": 100,
+      "cate": "1"
+    },
+    {
+      "id": 2,
+      "name": "tenis",
+      "image": "/static/1.png",
+      "price": 300,
+      "cate": "1"
+    },
+    {
+      "id": 3,
+      "name": "piano",
+      "image": "/static/1.png",
+      "price": 1000,
+      "cate": "2"
+    },
+    {
+      "id": 4,
+      "name": "Dell",
+      "image": "/static/1.png",
+      "price": 400,
+      "cate": "3"
+    },
+    {
+      "id": 5,
+      "name": "SONY",
+      "image": "/static/1.png",
+      "price": 400,
+      "cate": "3"
+    },
+    {
+      "id": 6,
+      "name": "ACER",
+      "image": "/static/1.png",
+      "price": 400,
+      "cate": "3"
+    }
+  ],
+  "orderlists": [
+    {
+      "date": "2023-10-18",
+      "invNo": "11",
+      "orderType": "wrwerwe",
+      "amount": "5",
+      "orderStatus": "werwerw",
+      "paymentType": "werwer",
+      "deliveryStatus": "werwer",
+      "id": 1
+    },
+    {
+      "date": "2023-10-13",
+      "invNo": "12312",
+      "orderType": "12",
+      "amount": "121",
+      "orderStatus": "11e12",
+      "paymentType": "e21e",
+      "deliveryStatus": "12e12e",
+      "id": 2
+    }
+  ]
+}
